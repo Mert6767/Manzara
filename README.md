@@ -1,7 +1,7 @@
 # Manzara
 Manzara fotoğrafları
 <html>
-<head> <title> Zhaber.site/zh </title></head>
+<head> <title> </title></head>
 <body>
 <table border="1" width="1600" height="800" align="center">
 <tr>
